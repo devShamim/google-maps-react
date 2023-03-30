@@ -1,5 +1,3 @@
-#!/bin/bash
-
 echo "=> Transpiling..."
 echo ""
 export NODE_ENV=production
